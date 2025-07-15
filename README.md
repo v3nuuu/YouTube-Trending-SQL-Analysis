@@ -49,7 +49,6 @@ This project analyzes trending YouTube videos in India using real-world data. Th
 - `top_channels.png` – Result from Task 2
 - `avg_likes_by_category.png` – Result from Task 3
 - `view_rank.png` – Result from Task 4
-- `INvideos.csv` – Dataset source information
 
 ---
 
